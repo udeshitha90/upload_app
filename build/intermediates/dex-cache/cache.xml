@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_f0d49521a1b49d91f5ee6ad12bca1e604b540d9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\libs\httpmime-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66a39a5e37d5da40fdad6176fc24ef4316e74702">
+        <dex dex="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.3.6_418f73d5bbfec39ab772d50f12b528a490c01ec2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_5c526bb531abb1be4daaf7e2b48334f616ac17bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04ad8b7952aabcd44a5194ccd940944a0cf2b4f0">
+        <dex dex="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e65f81617deb5906301f3ed33b345780f98baf00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\libs\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
+        <dex dex="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.3.6_9e0ed62bfe2f02ba12d7bbc9da7ac27e4b97cdad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_58ef1655e3d406d6705d2bca22e4ca08f4eb7c82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\udeshitha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_4ece9d7d625e17808131c1d2f3c9f385056e464f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8914b2e992f3d52266a12dbed8980fe38999ca35">
+        <dex dex="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_03502eb9d19884e3a8bd637ae43b98136a00f5b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\libs\httpcore-4.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.3.3_5e79d5bd3951768bca69e427323ba2f32e78a033\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\udeshitha\Google Drive\4th Year Proj\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_705f737df694ceeda0d41814cbd9a5efc5357aeb\classes.dex" />
+    </item>
+
+</items>

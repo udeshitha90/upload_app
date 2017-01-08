@@ -1,0 +1,7 @@
+#Sun Jan 08 19:26:50 IST 2017
+base.0=C\:\\Users\\udeshitha\\Google Drive\\4th Year Proj\\CameraPhotoVideoUpload\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_03502eb9d19884e3a8bd637ae43b98136a00f5b5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\udeshitha\\Google Drive\\4th Year Proj\\CameraPhotoVideoUpload\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e65f81617deb5906301f3ed33b345780f98baf00\\classes.dex
+base.1=C\:\\Users\\udeshitha\\Google Drive\\4th Year Proj\\CameraPhotoVideoUpload\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e65f81617deb5906301f3ed33b345780f98baf00
+file.0=C\:\\Users\\udeshitha\\Google Drive\\4th Year Proj\\CameraPhotoVideoUpload\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_03502eb9d19884e3a8bd637ae43b98136a00f5b5\\classes.dex
